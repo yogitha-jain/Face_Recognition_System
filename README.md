@@ -1,6 +1,6 @@
 # Face Recognition Identification System
 
-Enroll people, then identify new faces by matching them against the enrolled database, with an **"unknown" rejection** mechanism for people who were never enrolled. Built and evaluated on the **Labeled Faces in the Wild (LFW)** dataset using only free, open-source models (no paid APIs, no training or fine-tuning).
+Enroll people, then identify new faces by matching them against the enrolled database, with an **"unknown" rejection** mechanism for people who were never enrolled. Built and evaluated on the **Labeled Faces in the Wild (LFW)** dataset using only free, open-source models .
 
 Three face-recognition models run behind one common interface and are compared on the same data split:
 
